@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/in/service/impl/UserServiceImpl.java=UTF-8
+encoding//src/com/in/utils/DataSourceUtils.java=UTF-8
+encoding//src/com/in/utils/MailUtils.java=UTF-8
+encoding//src/com/in/utils/UUIDUtils.java=UTF-8
+encoding//src/com/in/web/filter/EncodingFilter.java=UTF-8
