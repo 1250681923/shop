@@ -31,7 +31,7 @@ public class MailUtils {
 		Authenticator auth = new Authenticator() {
 			public PasswordAuthentication getPasswordAuthentication() {
 				//le mot de passe du compte de l'expéditeur
-				return new PasswordAuthentication("1250681923@qq.com", "clvkajsyzqknjcba");
+				return new PasswordAuthentication("", "");
 			}
 		};
 		Session session = Session.getInstance(props, auth);
@@ -40,7 +40,7 @@ public class MailUtils {
 		Message message = new MimeMessage(session);
 
 		//l'expéditeur
-		message.setFrom(new InternetAddress("1250681923@qq.com"));
+		message.setFrom(new InternetAddress(""));
 
 		//la méthode d'envoi et le destinataire
 		message.setRecipient(RecipientType.TO, new InternetAddress(email)); 
