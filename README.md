@@ -7,3 +7,5 @@ JAVA, HTML, JavaScript, css,
 Jquery, bootstrap,
 phpstudy, SQLyog,
 Ajax, Redis, json, Layui
+
+C'est un projet JAVAEE. Vous pouvez voir notes.pdf pour tous les details malgre mon mauvais niveau de français...Jajajajaja
