@@ -4,10 +4,10 @@ Commercial use is prohibited due to copyright reasons
 
 
 Logiciels:
-Eclipse (Tomcat v9.0, jdk 1.8.0), phpstudy(MySQL 5.7.26), SQLyog
+Eclipse (Tomcat v9.0, jdk 1.8.0), phpstudy(MySQL 5.7.26), SQLyog, Redis
 
 back-end:
-JAVA, Redis
+JAVA
 
 front-end:
 HTML, JavaScript, css,
