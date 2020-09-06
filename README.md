@@ -15,4 +15,4 @@ Jquery, bootstrap,
 Ajax, json, Layui
 
 Le système d'inscription (faut ouvrir le service SMTP pour Java mail), Le système d'achat, Le système de gestion.... sont incluts dans ce projet.
-C'est un projet JAVAEE. Vous pouvez voir Notes.pdf pour tous les details malgre mon mauvais niveau de français...Jajajajaja
+C'est un projet JAVAEE. Vous pouvez voir Rapport.pdf pour tous les details malgre mon mauvais niveau de français...Jajajajaja
